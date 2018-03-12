@@ -1,0 +1,9 @@
+lib/
+include/
+share/
+log/
+bin/
+pip-selfcheck.json
+.Python
+saved.npy
+.DS_Store
